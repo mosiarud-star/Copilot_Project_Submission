@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Russian Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20260526T093036Z
+DESCRIPTION:Opening and objective\nAlign on critical supply chain risks aff
+	ecting FDA compliance and production continuity.\n\nIssue review by compon
+	ent\n\nBIND567: quality failures\, instability\, production impact\nCOMP04
+	2: delays\, incorrect lot numbers\, traceability gaps\nCOMP043: GMP concer
+	ns\, purity issues\, delivery instability\, stockouts\n\nCompliance and op
+	erational risk assessment\nReview immediate FDA compliance exposure\, prod
+	uction disruption risks\, and potential business impact.\n\nCurrent batch 
+	validation plan\nConfirm status\, testing needs\, and decision points for 
+	affected batches.\n\nTraceability and documentation gaps\nIdentify missing
+	 records and assign owners to restore full traceability.\n\nSupplier remed
+	iation and alternatives\nReview corrective actions with current suppliers 
+	and evaluate backup sourcing options.\n\nImmediate decisions and ownership
+	\nAssign actions\, owners\, and deadlines for urgent mitigation steps.\n\n
+	Next steps and follow-up cadence\nAgree on escalation path and timing for 
+	the next checkpoint.\n\nObjective: Define immediate actions to contain sup
+	ply chain risk\, protect FDA compliance\, and stabilize production.\n\nThi
+	s invite was sent by Copilot on behalf of Rudnikova\, Maria [JANRU].\n
+DTEND;TZID="Russian Standard Time":20260526T092500
+DTSTAMP:20260526T093036Z
+DTSTART;TZID="Russian Standard Time":20260526T090000
+LAST-MODIFIED:20260526T093036Z
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Urgent Supply Chain Risk Review: FDA Compliance Impa
+	ct
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000622DC07286ECDC01000000000000000
+	01000000075D8063714C54247A3F01092F947B260
+X-ALT-DESC;FMTTYPE=text/html:Opening and objective<br>Align on critical sup
+	ply chain risks affecting FDA compliance and production continuity.<br><br
+	>Issue review by component<br><br>BIND567: quality failures\, instability\
+	, production impact<br>COMP042: delays\, incorrect lot numbers\, traceabil
+	ity gaps<br>COMP043: GMP concerns\, purity issues\, delivery instability\,
+	 stockouts<br><br>Compliance and operational risk assessment<br>Review imm
+	ediate FDA compliance exposure\, production disruption risks\, and potenti
+	al business impact.<br><br>Current batch validation plan<br>Confirm status
+	\, testing needs\, and decision points for affected batches.<br><br>Tracea
+	bility and documentation gaps<br>Identify missing records and assign owner
+	s to restore full traceability.<br><br>Supplier remediation and alternativ
+	es<br>Review corrective actions with current suppliers and evaluate backup
+	 sourcing options.<br><br>Immediate decisions and ownership<br>Assign acti
+	ons\, owners\, and deadlines for urgent mitigation steps.<br><br>Next step
+	s and follow-up cadence<br>Agree on escalation path and timing for the nex
+	t checkpoint.<br><br>Objective: Define immediate actions to contain supply
+	 chain risk\, protect FDA compliance\, and stabilize production.<br><br>Th
+	is invite was sent by Copilot on behalf of Rudnikova\, Maria [JANRU].
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+END:VCALENDAR
