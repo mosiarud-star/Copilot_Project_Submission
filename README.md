@@ -4,7 +4,7 @@ Files:
 1. Prompts Library.docx — This file’s purpose is to provide a step-by-step prompt framework for converting supply chain compliance issues into actionable insights, reports, action plans, and executive communication materials.
 2. Task1_Email Summary.docx — Based on the Prompts Library.docx Task 1 and Prompts 1&2 execution result
 3. Task1_Supply Chain Issues Review.docx — Based on the Prompts Library.docx Task 1 and Prompt 3 execution result
-4. Task1_Supply Chain Issues Review.xlsx — Based on the Prompts Library.docx Task 1 and Prompt 3 attachment
+4. Task1_Supply Chain Report.xlsx — Based on the Prompts Library.docx Task 1 and Prompt 3 attachment
 5. Task2_Action Plan.docx — Based on the Prompts Library.docx Task 2 and Prompt 2 execution result
 6. Task2_Meeting Agenda.docx — Based on the Prompts Library.docx Task 2 and Prompt 1 execution result
 7. Task2_Meeting Invite.ics — Based on the Prompts Library.docx Task 2 execution result
