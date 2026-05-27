@@ -21,7 +21,7 @@ Task1_Email Summary.docx
 A summary generated from Task 1, Prompts 1 & 2.
 Task1_Supply Chain Issues Review.docx
 A structured written review of the identified supply chain issues.
-Task1_Supply Chain Review.xlsx
+Task1_Supply Chain Report.xlsx
 The spreadsheet-based issue review/attachment supporting the written review.
 
 Task 2 — Turn the issue review into an action plan and meeting package
@@ -70,7 +70,7 @@ Review notes:
 - Then open Task1_Email Summary.docx to check if this is what you expected to get
 - Proceed with Prompts Library.docx - Task 1, Prompt 3 instructions
 - Then open Task1_Supply Chain Issues Review.docx — to check if this is what you expected to get after Task 1 and Prompt 3 execution
-- Then open Task1_Supply Chain Issues Review.xlsx — to check if this is what you expected to get after Task 1 and Prompt 3 execution
+- Then open Task1_Supply Chain Report.xlsx — to check if this is what you expected to get after Task 1 and Prompt 3 execution
 - Proceed with Prompts Library.docx - Task 2, Prompt 1 instructions
 - Then open Task2_Meeting Agenda.docx — to check if this is what you expected to get after Task 2 and Prompt 1 execution
 - Proceed with Prompts Library.docx - Task 2, Prompt 2 instructions
